@@ -1,4 +1,3 @@
-// console.log("vaibhav")
 //functions
 
 //typeof - it tells the dataype of things
